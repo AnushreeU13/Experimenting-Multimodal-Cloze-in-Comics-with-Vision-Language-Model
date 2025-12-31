@@ -44,8 +44,8 @@ Our fine-tuned models demonstrated a significant leap in understanding narrative
 
 ## 🛠️ Credits
 **PanelPioneers Team**:
-*   **Anushree Udhayakumar**: LLaVA experimentation, Stable Diffusion pipeline, Report Lead.
-*   **Harshvardhan Sekar**: GCS Data orchestration, Gemini Silver labeling pipeline, Fine-tuning orchestration.
+*   **Anushree Udhayakumar**: Experimenting using  YOLOv8 + CRAFT + EasyOCRLLaVA, experimentation with LLaVA, Stable Diffusion pipeline and analysis.
+*   **Harshvardhan Sekar**: LLaVA implementation, GCS Data orchestration, Gemini Silver labeling pipeline, Fine-tuning orchestration.
 *   **Prisha Singhania**: Evaluation of OpenFlamingo/QWEN architectures.
 *   **Sonia Navale**: Literature survey and model parameter selection.
 
