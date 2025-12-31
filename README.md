@@ -44,7 +44,7 @@ Our fine-tuned models demonstrated a significant leap in understanding narrative
 
 ## 🛠️ Credits
 **PanelPioneers Team**:
-*   **Anushree Udhayakumar**: Experimenting using  YOLOv8 + CRAFT + EasyOCRLLaVA, experimentation with LLaVA, Stable Diffusion pipeline and analysis.
+*   **Anushree Udhayakumar**: Experimenting using  YOLOv8 + CRAFT + EasyOCR, experimentation with LLaVA, Stable Diffusion pipeline and analysis.
 *   **Harshvardhan Sekar**: LLaVA implementation, GCS Data orchestration, Gemini Silver labeling pipeline, Fine-tuning orchestration.
 *   **Prisha Singhania**: Evaluation of OpenFlamingo/QWEN architectures.
 *   **Sonia Navale**: Literature survey and model parameter selection.
